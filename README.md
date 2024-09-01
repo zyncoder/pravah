@@ -1,7 +1,3 @@
-Here’s the updated documentation with the name **Pravah**:
-
----
-
 ### **Pravah: A Guided Yoga Routine Web App**
 
 ---
